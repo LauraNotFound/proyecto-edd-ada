@@ -1,0 +1,1 @@
+Definición de las tecnologías a emplear y diagramas que definen la estructura del software. 

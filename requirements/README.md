@@ -1,0 +1,1 @@
+Definición de los requerimientos funcionales y no funcionales del Sistema de Gestión de Biblioteca.
